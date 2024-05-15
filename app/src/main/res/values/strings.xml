@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KedatechApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hint_search">Search product name\n</string>
+    <string name="text_no_data">No Data.</string>
+    <string name="text_indo_currency_symbol">Rp %1$s</string>
+    <string name="filter_favorite">Favorite</string>
+    <string name="title_kedatech_product">Kedatech Product</string>
+</resources>
