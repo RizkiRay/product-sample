@@ -33,6 +33,7 @@ class ProductDetailViewModelTest {
 
     @Test
     fun `when run extractArguments state product should not be null`() {
+        viewmodel.extractArguments(bundle)
         assertNotNull(viewmodel.uiState.value?.product)
     }
 }
